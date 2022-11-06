@@ -1,0 +1,27 @@
+{
+  "name": "nodejs-web-scraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chathurperera/nodejs-web-scraper.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chathurperera/nodejs-web-scraper/issues"
+  },
+  "homepage": "https://github.com/chathurperera/nodejs-web-scraper#readme",
+  "dependencies": {
+    "chalk": "^5.1.2",
+    "node-cron": "^3.0.2",
+    "ora": "^6.1.2",
+    "puppeteer": "^19.2.2"
+  },
+  "type": "module"
+}
